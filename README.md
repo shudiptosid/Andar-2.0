@@ -95,3 +95,11 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+# License
+
+MIT License (Non-Commercial) - Copyright (c) 2025 Shudipto Gain
+
+This software is free for personal use and learning purposes only. Commercial use is strictly prohibited.
+
+See the [LICENSE](LICENSE) file for full details.
